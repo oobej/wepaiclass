@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>abcd</h1>
-<h2>abcd</h2>
+<h1>asdf</h1>
 </body>
 </html>
